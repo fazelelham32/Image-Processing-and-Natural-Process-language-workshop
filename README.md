@@ -1,1 +1,1 @@
-# DL-ML-for-Image-Processing-Workshop
+# Image-Processing-Workshop
